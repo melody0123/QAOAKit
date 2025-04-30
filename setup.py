@@ -21,7 +21,7 @@ setup(
     packages=find_packages("."),
     install_requires=[
         # fixed version packages: high chance that using other versions might not work.
-        "qiskit==1.0.2",
+        "qiskit==1.3.3",
         "qiskit-aer==0.13.3",
         "pynauty==1.1.2",
         "scikit-learn==1.4.1.post1",
